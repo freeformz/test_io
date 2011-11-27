@@ -1,1 +1,1 @@
-web: io mini.io
+web: io
